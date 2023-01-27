@@ -1,0 +1,32 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  height: 100vh;
+  background-color: rgb(183, 240, 183);
+}
+
+.container {
+padding: 10px;
+margin: 10px;
+
+}
+
+p {
+  font-size: 25px;
+  font-family: 'Fondamento', cursive;
+}
+
+h1 {
+  font-family: 'Fondamento', cursive;
+  color: goldenrod;
+}
+
+h2 {
+  font-family: 'Fondamento', cursive;
+  color: goldenrod;
+}
+
+img{
+  height: 500px;
+  width: 650px;
+}
